@@ -1,0 +1,23 @@
+{
+  "name": "cleanurl",
+  "version": "1.0.0",
+  "description": "Javascript API to strip URL's clutter. https://www.npmjs.com/package/CleanURL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhafaiedhd/CleanURL.git"
+  },
+  "keywords": [],
+  "author": "benhafaiedhd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhafaiedhd/CleanURL/issues"
+  },
+  "homepage": "https://github.com/benhafaiedhd/CleanURL#readme",
+  "dependencies": {
+    "psl": "^1.7.0"
+  }
+}
