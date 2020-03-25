@@ -1,7 +1,7 @@
 {
   "name": "@benhafaiedhd/cleanurl",
   "version": "1.0.0",
-  "description": "Javascript API to strip URL's clutter. https://www.npmjs.com/package/CleanURL",
+  "description": "Javascript API to strip URL's clutter. https://www.npmjs.com/package/@benhafaiedhd/cleanurl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
